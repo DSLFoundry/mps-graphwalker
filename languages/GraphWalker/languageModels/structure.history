@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="73aj" modelUID="r:ee508b64-6220-4519-841a-8641acee7257(GraphWalker.structure)" version="-1" />
+    </dependencies>
+    <rename id="73aj.610083157518847165" type="CONCEPT" from="Node" to="Vertex" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="73aj" modelUID="r:ee508b64-6220-4519-841a-8641acee7257(GraphWalker.structure)" version="0" />
+    </dependencies>
+    <rename id="73aj.610083157518847165" type="CONCEPT" from="Vertex" to="Node" />
+  </StructureModification>
+</history>
+
